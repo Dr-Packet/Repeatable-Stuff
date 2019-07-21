@@ -1,0 +1,3 @@
+Network Health Check Completed!
+
+Please check results.csv for output
